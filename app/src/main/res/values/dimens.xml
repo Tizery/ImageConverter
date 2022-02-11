@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_image_selection_marginTop">20dp</dimen>
+    <dimen name="imageView_width_and_height">300dp</dimen>
+    <dimen name="imageView_marginTop">58dp</dimen>
+    <dimen name="btn_start_converting_marginTop">20dp</dimen>
+</resources>
